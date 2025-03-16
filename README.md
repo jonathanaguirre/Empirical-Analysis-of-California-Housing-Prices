@@ -20,7 +20,7 @@ medianHouseValue: Median house value for households within a block (measured in 
 | oceanProximity       | Location of the house in proximity to the ocean.                                              |
 
 
-## what dependencies are required?
+## What dependencies are required?
 | Package      | Description                                                                                   |
 |--------------|-----------------------------------------------------------------------------------------------|
 | math         | A standard library in Python for mathematical functions and constants.                        |
