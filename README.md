@@ -3,10 +3,10 @@
 ## Introduction
 Let's predict the cost of homes in parts of California using Python and the Scikit-learn library. From the housing.csv file, nine Feature variables and one target variable will be utlized. Linear Regresson, Random Forest Regressor, and XGBoost will be used in Model Training.
 
-## What is the Target Variable?
+## What is the Target/***Dependent*** Variable?
 medianHouseValue: Median house value for households within a block (measured in US Dollars).
 
-## What Feature Variables are there?
+## What Feature/***Independent*** Variables are there?
 | Feature              | Description                                                                                     |
 |----------------------|-------------------------------------------------------------------------------------------------|
 | longitude            | A measure of how far west a house is (a higher value is farther west).                        |
